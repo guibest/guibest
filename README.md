@@ -22,9 +22,9 @@ Além disso, enfrento o desafio de **implementar uma cultura de testes na equipe
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebatistell&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebatistell&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibest&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibest&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
+
