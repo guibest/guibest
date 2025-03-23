@@ -13,10 +13,10 @@ Além disso, enfrento o desafio de **implementar uma cultura de testes na equipe
 
 ### 🔗 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-batistell-729756120" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:guibest@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
@@ -25,6 +25,6 @@ Além disso, enfrento o desafio de **implementar uma cultura de testes na equipe
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebatistell&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebatistell&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
