@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Gui
+## 👋 Olá! Eu sou o Guilherme
 
 Atualmente, atuo como **Analista de QA II na Pense App**, com quase 5 meses de experiência em **2 projetos mobile e 2 projetos web**. Meu papel é garantir a qualidade das novas funcionalidades, melhorias e correções, sendo uma das últimas barreiras antes de cada versão ser liberada para produção com o máximo de qualidade.
 
